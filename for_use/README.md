@@ -4,7 +4,7 @@ import load_idf 或是 import bm25_load_idf
 
 執行load_idf.load('竹北市') 或 bm25_load_idf('竹北市')
 
-download two idf table here then you can use it
+在執行之前記得先下載以下檔案喔
 
 [normal type idf](https://drive.google.com/file/d/10kRX2PRS4Wvw6KJZ_4nzLSIxnHEC5IBm/view?usp=share_link)
 
